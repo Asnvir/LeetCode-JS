@@ -1,2 +1,2 @@
-# LeetCode-exercises
-A collection of LeetCode questions to ace the coding interview!
+# LeetCode
+A collection of my LeetCode solutions.
