@@ -11,4 +11,12 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asnvir/LeetCode-exercises/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Asnvir/LeetCode-exercises/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Asnvir/LeetCode-exercises/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
