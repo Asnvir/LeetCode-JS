@@ -4,21 +4,20 @@
  */
 var maxProfit = function(prices) {
 
-    let minBuy = prices[0];
-    let globalProfit = 0;
+    const isSingleNumber = prices.length <= 1;
+    if (isSingleNumber) return 0;
 
-    for( let i=1; i < prices.length; i++) {
-        const sell = prices[i];
-        const currentProfit = sell - minBuy;
+    let [maxProfit,minPrice] = [0,prices[0]];
 
-        if( sell < minBuy) {
-            minBuy = sell;
-        } else if ( currentProfit > globalProfit){
-            globalProfit = currentProfit;
-        }
+    for( let i=0; i < prices.length; i++) {
+        const currentPrice = prices[i];
+        const potentialProfit = currentPrice - minPrice;
+
+        maxProfit = Math.max(potentialProfit,maxProfit);
+        minPrice = Math.min(currentPrice,minPrice);
     }
 
-    return globalProfit;
+    return maxProfit;
 };
 
  
