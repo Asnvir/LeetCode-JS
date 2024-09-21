@@ -5,8 +5,16 @@
  * @param {number} color
  * @return {number[][]}
  */
+
+const isValidPosition = (row, column, rows, columns, originalColor, image)  => {
+    if(row < 0 || row >= rows || column < 0 || column >= columns || image[row][column] !== originalColor) {
+        return false;
+    }
+    return true;
+}
+
 const dfsMatrixFill = (originalColor,newColor,image,currentRow,currentColumn, rows,columns) => {
-    if(currentRow < 0 || currentRow >= rows || currentColumn < 0 || currentColumn >= columns || image[currentRow][currentColumn] !== originalColor){
+    if(!isValidPosition(currentRow, currentColumn, rows, columns, originalColor, image)) {
         return;
     }
 
