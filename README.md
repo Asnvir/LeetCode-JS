@@ -7,6 +7,7 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asnvir/LeetCode-exercises/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Asnvir/LeetCode-exercises/tree/master/0792-binary-search) |
@@ -38,6 +39,7 @@ A collection of my LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -84,4 +86,8 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Asnvir/LeetCode-exercises/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
