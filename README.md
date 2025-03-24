@@ -8,6 +8,7 @@ A collection of my LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/Asnvir/LeetCode-exercises/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Asnvir/LeetCode-exercises/tree/master/0792-binary-search) |
@@ -23,6 +24,7 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Asnvir/LeetCode-exercises/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Asnvir/LeetCode-exercises/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Asnvir/LeetCode-exercises/tree/master/0242-valid-anagram) |
 ## Stack
@@ -58,6 +60,7 @@ A collection of my LeetCode solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Asnvir/LeetCode-exercises/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Asnvir/LeetCode-exercises/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Asnvir/LeetCode-exercises/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -84,6 +87,7 @@ A collection of my LeetCode solutions.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -101,4 +105,8 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/Asnvir/LeetCode/tree/master/0817-design-hashmap) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
