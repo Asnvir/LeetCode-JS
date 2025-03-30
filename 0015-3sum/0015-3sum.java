@@ -6,13 +6,13 @@ class Solution {
         List<List<Integer>> results = new ArrayList<>();
         
         for(int i = 0; i < nums.length; i++) {
-            
+            int targetSum = -nums[i];
 
             // Skip duplicates for the current element nums[i]
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-int targetSum = -nums[i];
+
             int left = i + 1;
             int right = nums.length - 1;
 
