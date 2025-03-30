@@ -15,6 +15,7 @@ A collection of my LeetCode solutions.
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Asnvir/LeetCode-exercises/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Asnvir/LeetCode/tree/master/0817-design-hashmap) |
+| [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of my LeetCode solutions.
 | [0141-linked-list-cycle](https://github.com/Asnvir/LeetCode-exercises/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asnvir/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Asnvir/LeetCode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of my LeetCode solutions.
 | ------- |
 | [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Asnvir/LeetCode-exercises/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
