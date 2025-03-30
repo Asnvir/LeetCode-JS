@@ -6,7 +6,7 @@ class Solution {
         int right = nums.length - 1;
         int currentIndex = nums.length - 1;
 
-        while (left <= right) {  // Use <= to include the case where left == right
+        while (left <= right) {
             int absoluteLeftNum = Math.abs(nums[left]);
             int absoluteRightNum = Math.abs(nums[right]);
 
