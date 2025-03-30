@@ -7,6 +7,7 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asnvir/LeetCode-exercises/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of my LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Asnvir/LeetCode-exercises/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Asnvir/LeetCode-exercises/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asnvir/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -83,6 +85,7 @@ A collection of my LeetCode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Asnvir/LeetCode-exercises/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
