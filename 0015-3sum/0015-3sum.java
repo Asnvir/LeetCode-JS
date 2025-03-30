@@ -7,20 +7,21 @@ class Solution {
         
         for(int i = 0; i < nums.length; i++) {
         
-            // Skip duplicates for the current element nums[i]
+            // Check if we've already searched triplets, for the same number
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
 
+            // -nums[i], preparation for 2sum algorithm
             int targetSum = -nums[i];
             int left = i + 1;
             int right = nums.length - 1;
 
+            // 2 sum algorithm with 2 pointers
             while(left < right) {
                 int currentSum = nums[left] + nums[right];
 
                 if(currentSum == targetSum) {
-                    // Create a list for the triplet and add it to results
                     results.add(Arrays.asList(nums[i], nums[left], nums[right]));
 
                     // Skip duplicates for nums[left] and nums[right]
@@ -31,7 +32,6 @@ class Solution {
                         right--;
                     }
 
-                    // Move the pointers after finding a valid triplet
                     left++;
                     right--;
                 } else if (currentSum < targetSum) {
