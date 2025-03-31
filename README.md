@@ -7,6 +7,7 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Asnvir/LeetCode-exercises/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Asnvir/LeetCode-JS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Asnvir/LeetCode-JS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Asnvir/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Asnvir/LeetCode-exercises/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Asnvir/LeetCode-exercises/tree/master/0141-linked-list-cycle) |
@@ -120,4 +122,8 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Asnvir/LeetCode/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Asnvir/LeetCode-JS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
