@@ -34,6 +34,7 @@ A collection of my LeetCode solutions.
 | [0125-valid-palindrome](https://github.com/Asnvir/LeetCode-exercises/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Asnvir/LeetCode-exercises/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Asnvir/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of my LeetCode solutions.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of my LeetCode solutions.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asnvir/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Asnvir/LeetCode-JS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Asnvir/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
