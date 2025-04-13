@@ -35,10 +35,12 @@ A collection of my LeetCode solutions.
 | [0242-valid-anagram](https://github.com/Asnvir/LeetCode-exercises/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Asnvir/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Asnvir/LeetCode-JS/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Asnvir/LeetCode-exercises/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/Asnvir/LeetCode-JS/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of my LeetCode solutions.
 | [0283-move-zeroes](https://github.com/Asnvir/LeetCode-JS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Asnvir/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Asnvir/LeetCode-JS/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Tree
 |  |
@@ -133,4 +136,8 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Asnvir/LeetCode-JS/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Asnvir/LeetCode-JS/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
