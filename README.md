@@ -15,6 +15,7 @@ A collection of my LeetCode solutions.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Asnvir/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Asnvir/LeetCode-JS/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Asnvir/LeetCode-JS/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Asnvir/LeetCode-exercises/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Asnvir/LeetCode/tree/master/0817-design-hashmap) |
@@ -140,4 +141,8 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Asnvir/LeetCode-JS/tree/master/0874-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Asnvir/LeetCode-JS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
