@@ -19,6 +19,7 @@ A collection of my LeetCode solutions.
 | [0733-flood-fill](https://github.com/Asnvir/LeetCode-exercises/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Asnvir/LeetCode-exercises/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/Asnvir/LeetCode/tree/master/0817-design-hashmap) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Asnvir/LeetCode-JS/tree/master/0954-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Asnvir/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -58,6 +59,7 @@ A collection of my LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Asnvir/LeetCode-exercises/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Asnvir/LeetCode-JS/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Asnvir/LeetCode-JS/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Asnvir/LeetCode-exercises/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Asnvir/LeetCode-JS/tree/master/0954-maximum-sum-circular-subarray) |
 ## Design
 |  |
 | ------- |
@@ -145,4 +148,12 @@ A collection of my LeetCode solutions.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Asnvir/LeetCode-JS/tree/master/0643-maximum-average-subarray-i) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Asnvir/LeetCode-JS/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Asnvir/LeetCode-JS/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
